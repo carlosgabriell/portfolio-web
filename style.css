@@ -150,8 +150,8 @@ body {
 }
 
 .nav textarea {
-  min-height: 130px;
-  resize: vertical;
+  min-height: 10px;
+  resize: horizontal;
 }
 
 .button {
